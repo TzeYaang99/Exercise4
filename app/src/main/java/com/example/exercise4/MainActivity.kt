@@ -55,6 +55,8 @@ class MainActivity : AppCompatActivity() {
             in 46..50 -> 165000;
             in 51..55 -> 228000;
 
+
+
             else -> 0;
         }
 
